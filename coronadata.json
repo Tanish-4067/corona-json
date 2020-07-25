@@ -281,7 +281,7 @@
   },
   {
     "serial_no": "",
-    "state": "Total#",
+    "state": "ota",
     "active_cases": "456071",
     "recovered_cases": "849432",
     "death": "31358",
