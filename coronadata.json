@@ -50,8 +50,8 @@
   {
     "serial_no": "7",
     "state": "Chhattisgarh",
-    "active_cases": "77258",
-    "recovered_cases": "61765",
+    "active_cases": "27369",
+    "recovered_cases": "111654",
     "death": "1235",
     "total_cases": "140258"
   },
@@ -290,8 +290,8 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "918871",
-    "recovered_cases": "6024566",
+    "active_cases": "868982",
+    "recovered_cases": "6074455",
     "death": "108783",
     "total_cases": "7052220"
   }
