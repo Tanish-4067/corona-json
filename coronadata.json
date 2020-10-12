@@ -210,10 +210,10 @@
   {
     "serial_no": "27",
     "state": "Puducherry",
-    "active_cases": "4695",
-    "recovered_cases": "26291",
-    "death": "563",
-    "total_cases": "31549"
+    "active_cases": "4617",
+    "recovered_cases": "26555",
+    "death": "565",
+    "total_cases": "31737"
   },
   {
     "serial_no": "28",
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "862214",
-    "recovered_cases": "6147855",
-    "death": "109675",
-    "total_cases": "7119744"
+    "active_cases": "862136",
+    "recovered_cases": "6148119",
+    "death": "109677",
+    "total_cases": "7119932"
   }
 ]
