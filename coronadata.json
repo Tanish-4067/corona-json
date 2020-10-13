@@ -18,10 +18,10 @@
   {
     "serial_no": "3",
     "state": "Arunachal Pradesh",
-    "active_cases": "2891",
-    "recovered_cases": "9232",
+    "active_cases": "2940",
+    "recovered_cases": "9403",
     "death": "24",
-    "total_cases": "12147"
+    "total_cases": "12367"
   },
   {
     "serial_no": "4",
@@ -138,10 +138,10 @@
   {
     "serial_no": "18",
     "state": "Ladakh",
-    "active_cases": "980",
-    "recovered_cases": "4037",
+    "active_cases": "961",
+    "recovered_cases": "4126",
     "death": "64",
-    "total_cases": "5081"
+    "total_cases": "5151"
   },
   {
     "serial_no": "19",
@@ -186,10 +186,10 @@
   {
     "serial_no": "24",
     "state": "Mizoram",
-    "active_cases": "138",
+    "active_cases": "156",
     "recovered_cases": "2046",
     "death": "0",
-    "total_cases": "2184"
+    "total_cases": "2202"
   },
   {
     "serial_no": "25",
@@ -250,18 +250,18 @@
   {
     "serial_no": "32",
     "state": "Telangana",
-    "active_cases": "24514",
-    "recovered_cases": "187342",
-    "death": "1228",
-    "total_cases": "213084"
+    "active_cases": "24208",
+    "recovered_cases": "189351",
+    "death": "1233",
+    "total_cases": "214792"
   },
   {
     "serial_no": "33",
     "state": "Tripura",
-    "active_cases": "3765",
-    "recovered_cases": "24380",
-    "death": "313",
-    "total_cases": "28458"
+    "active_cases": "3761",
+    "recovered_cases": "24600",
+    "death": "314",
+    "total_cases": "28675"
   },
   {
     "serial_no": "34",
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "839019",
-    "recovered_cases": "6223300",
-    "death": "110375",
-    "total_cases": "7172694"
+    "active_cases": "838757",
+    "recovered_cases": "6225789",
+    "death": "110381",
+    "total_cases": "7174927"
   }
 ]
