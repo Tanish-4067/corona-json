@@ -58,10 +58,10 @@
   {
     "serial_no": "8",
     "state": "Dadar & Nagar Haveli; Daman & Diu",
-    "active_cases": "85",
-    "recovered_cases": "3081",
+    "active_cases": "79",
+    "recovered_cases": "3090",
     "death": "2",
-    "total_cases": "3168"
+    "total_cases": "3171"
   },
   {
     "serial_no": "9",
@@ -170,10 +170,10 @@
   {
     "serial_no": "22",
     "state": "Manipur",
-    "active_cases": "2867",
-    "recovered_cases": "10829",
-    "death": "97",
-    "total_cases": "13793"
+    "active_cases": "3076",
+    "recovered_cases": "10915",
+    "death": "103",
+    "total_cases": "14094"
   },
   {
     "serial_no": "23",
@@ -186,10 +186,10 @@
   {
     "serial_no": "24",
     "state": "Mizoram",
-    "active_cases": "119",
+    "active_cases": "112",
     "recovered_cases": "2108",
     "death": "0",
-    "total_cases": "2227"
+    "total_cases": "2220"
   },
   {
     "serial_no": "25",
@@ -218,10 +218,10 @@
   {
     "serial_no": "28",
     "state": "Punjab",
-    "active_cases": "8212",
-    "recovered_cases": "113105",
-    "death": "3894",
-    "total_cases": "125211"
+    "active_cases": "7760",
+    "recovered_cases": "114075",
+    "death": "3925",
+    "total_cases": "125760"
   },
   {
     "serial_no": "29",
@@ -250,18 +250,18 @@
   {
     "serial_no": "32",
     "state": "Telangana",
-    "active_cases": "23728",
-    "recovered_cases": "191269",
-    "death": "1241",
-    "total_cases": "216238"
+    "active_cases": "23203",
+    "recovered_cases": "193218",
+    "death": "1249",
+    "total_cases": "217670"
   },
   {
     "serial_no": "33",
     "state": "Tripura",
-    "active_cases": "3523",
-    "recovered_cases": "25018",
-    "death": "315",
-    "total_cases": "28856"
+    "active_cases": "3341",
+    "recovered_cases": "25371",
+    "death": "316",
+    "total_cases": "29028"
   },
   {
     "serial_no": "34",
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "813546",
-    "recovered_cases": "6379018",
-    "death": "111774",
-    "total_cases": "7304338"
+    "active_cases": "812583",
+    "recovered_cases": "6382385",
+    "death": "111820",
+    "total_cases": "7306788"
   }
 ]
