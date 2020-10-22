@@ -10,10 +10,10 @@
   {
     "serial_no": "2",
     "state": "Andhra Pradesh",
-    "active_cases": "32376",
-    "recovered_cases": "754415",
-    "death": "6508",
-    "total_cases": "793299"
+    "active_cases": "32257",
+    "recovered_cases": "758138",
+    "death": "6524",
+    "total_cases": "796919"
   },
   {
     "serial_no": "3",
@@ -26,18 +26,18 @@
   {
     "serial_no": "4",
     "state": "Assam",
-    "active_cases": "25810",
-    "recovered_cases": "176075",
-    "death": "889",
-    "total_cases": "202774"
+    "active_cases": "24727",
+    "recovered_cases": "177659",
+    "death": "896",
+    "total_cases": "203282"
   },
   {
     "serial_no": "5",
     "state": "Bihar",
-    "active_cases": "11011",
-    "recovered_cases": "196208",
-    "death": "1019",
-    "total_cases": "208238"
+    "active_cases": "11077",
+    "recovered_cases": "197193",
+    "death": "1026",
+    "total_cases": "209296"
   },
   {
     "serial_no": "6",
@@ -66,10 +66,10 @@
   {
     "serial_no": "9",
     "state": "Delhi",
-    "active_cases": "24117",
-    "recovered_cases": "310191",
-    "death": "6128",
-    "total_cases": "340436"
+    "active_cases": "25241",
+    "recovered_cases": "312918",
+    "death": "6163",
+    "total_cases": "344322"
   },
   {
     "serial_no": "10",
@@ -82,18 +82,18 @@
   {
     "serial_no": "11",
     "state": "Gujarat",
-    "active_cases": "14193",
-    "recovered_cases": "144970",
-    "death": "3660",
-    "total_cases": "162823"
+    "active_cases": "14121",
+    "recovered_cases": "146171",
+    "death": "3667",
+    "total_cases": "163959"
   },
   {
     "serial_no": "12",
     "state": "Haryana",
-    "active_cases": "10187",
-    "recovered_cases": "141541",
-    "death": "1674",
-    "total_cases": "153402"
+    "active_cases": "10009",
+    "recovered_cases": "142798",
+    "death": "1688",
+    "total_cases": "154495"
   },
   {
     "serial_no": "13",
@@ -106,10 +106,10 @@
   {
     "serial_no": "14",
     "state": "Jammu and Kashmir",
-    "active_cases": "8088",
-    "recovered_cases": "80092",
-    "death": "1402",
-    "total_cases": "89582"
+    "active_cases": "7952",
+    "recovered_cases": "80802",
+    "death": "1412",
+    "total_cases": "90166"
   },
   {
     "serial_no": "15",
@@ -130,10 +130,10 @@
   {
     "serial_no": "17",
     "state": "Kerala",
-    "active_cases": "93527",
-    "recovered_cases": "267082",
-    "death": "1233",
-    "total_cases": "361842"
+    "active_cases": "93393",
+    "recovered_cases": "274675",
+    "death": "1256",
+    "total_cases": "369324"
   },
   {
     "serial_no": "18",
@@ -154,18 +154,18 @@
   {
     "serial_no": "20",
     "state": "Madhya Pradesh",
-    "active_cases": "12386",
-    "recovered_cases": "148082",
-    "death": "2828",
-    "total_cases": "163296"
+    "active_cases": "12146",
+    "recovered_cases": "149353",
+    "death": "2842",
+    "total_cases": "164341"
   },
   {
     "serial_no": "21",
     "state": "Maharashtra",
-    "active_cases": "158852",
-    "recovered_cases": "1415679",
-    "death": "43127",
-    "total_cases": "1617658"
+    "active_cases": "150016",
+    "recovered_cases": "1431856",
+    "death": "43325",
+    "total_cases": "1625197"
   },
   {
     "serial_no": "22",
@@ -194,10 +194,10 @@
   {
     "serial_no": "25",
     "state": "Nagaland",
-    "active_cases": "1750",
-    "recovered_cases": "6360",
+    "active_cases": "1868",
+    "recovered_cases": "6399",
     "death": "29",
-    "total_cases": "8139"
+    "total_cases": "8296"
   },
   {
     "serial_no": "26",
@@ -218,18 +218,18 @@
   {
     "serial_no": "28",
     "state": "Punjab",
-    "active_cases": "4808",
-    "recovered_cases": "120220",
-    "death": "4060",
-    "total_cases": "129088"
+    "active_cases": "4466",
+    "recovered_cases": "121155",
+    "death": "4072",
+    "total_cases": "129693"
   },
   {
     "serial_no": "29",
     "state": "Rajasthan",
-    "active_cases": "19185",
-    "recovered_cases": "157960",
-    "death": "1788",
-    "total_cases": "178933"
+    "active_cases": "18341",
+    "recovered_cases": "160614",
+    "death": "1800",
+    "total_cases": "180755"
   },
   {
     "serial_no": "30",
@@ -242,10 +242,10 @@
   {
     "serial_no": "31",
     "state": "Tamil Nadu",
-    "active_cases": "35480",
-    "recovered_cases": "650856",
-    "death": "10780",
-    "total_cases": "697116"
+    "active_cases": "34198",
+    "recovered_cases": "655170",
+    "death": "10825",
+    "total_cases": "700193"
   },
   {
     "serial_no": "32",
@@ -274,25 +274,25 @@
   {
     "serial_no": "35",
     "state": "Uttarakhand",
-    "active_cases": "5514",
-    "recovered_cases": "52632",
-    "death": "960",
-    "total_cases": "59106"
+    "active_cases": "5340",
+    "recovered_cases": "53200",
+    "death": "968",
+    "total_cases": "59508"
   },
   {
     "serial_no": "36",
     "state": "West Bengal",
-    "active_cases": "35579",
-    "recovered_cases": "291303",
-    "death": "6244",
-    "total_cases": "333126"
+    "active_cases": "36064",
+    "recovered_cases": "294911",
+    "death": "6308",
+    "total_cases": "337283"
   },
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "715792",
-    "recovered_cases": "6873838",
-    "death": "117185",
-    "total_cases": "7706815"
+    "active_cases": "704145",
+    "recovered_cases": "6923184",
+    "death": "117657",
+    "total_cases": "7744986"
   }
 ]
