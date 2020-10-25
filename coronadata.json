@@ -202,8 +202,8 @@
   {
     "serial_no": "26",
     "state": "Odisha",
-    "active_cases": "21707",
-    "recovered_cases": "254913",
+    "active_cases": "17202",
+    "recovered_cases": "259418",
     "death": "1267",
     "total_cases": "277887"
   },
@@ -290,8 +290,8 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "675216",
-    "recovered_cases": "7064581",
+    "active_cases": "670711",
+    "recovered_cases": "7069086",
     "death": "119029",
     "total_cases": "7858826"
   }
