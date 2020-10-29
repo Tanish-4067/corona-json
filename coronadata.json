@@ -10,10 +10,10 @@
   {
     "serial_no": "2",
     "state": "Andhra Pradesh",
-    "active_cases": "26558",
+    "active_cases": "26268",
     "recovered_cases": "784752",
     "death": "6659",
-    "total_cases": "817969"
+    "total_cases": "817679"
   },
   {
     "serial_no": "3",
@@ -90,8 +90,8 @@
   {
     "serial_no": "12",
     "state": "Haryana",
-    "active_cases": "11391",
-    "recovered_cases": "150660",
+    "active_cases": "11356",
+    "recovered_cases": "150695",
     "death": "1766",
     "total_cases": "163817"
   },
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "597531",
-    "recovered_cases": "7351674",
+    "active_cases": "597206",
+    "recovered_cases": "7351709",
     "death": "121411",
-    "total_cases": "8070616"
+    "total_cases": "8070326"
   }
 ]
