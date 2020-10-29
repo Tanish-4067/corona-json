@@ -162,9 +162,9 @@
   {
     "serial_no": "21",
     "state": "Maharashtra",
-    "active_cases": "127609",
+    "active_cases": "127603",
     "recovered_cases": "1494809",
-    "death": "44250",
+    "death": "44256",
     "total_cases": "1666668"
   },
   {
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "597206",
+    "active_cases": "597200",
     "recovered_cases": "7351709",
-    "death": "121411",
+    "death": "121417",
     "total_cases": "8070326"
   }
 ]
