@@ -186,10 +186,10 @@
   {
     "serial_no": "24",
     "state": "Mizoram",
-    "active_cases": "417",
+    "active_cases": "368",
     "recovered_cases": "2238",
     "death": "1",
-    "total_cases": "2656"
+    "total_cases": "2607"
   },
   {
     "serial_no": "25",
@@ -242,9 +242,9 @@
   {
     "serial_no": "31",
     "state": "Tamil Nadu",
-    "active_cases": "26391",
+    "active_cases": "26356",
     "recovered_cases": "679377",
-    "death": "10983",
+    "death": "11018",
     "total_cases": "716751"
   },
   {
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "597200",
+    "active_cases": "597116",
     "recovered_cases": "7351709",
-    "death": "121417",
-    "total_cases": "8070326"
+    "death": "121452",
+    "total_cases": "8070277"
   }
 ]
