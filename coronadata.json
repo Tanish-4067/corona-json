@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "-10160742",
-    "recovered_cases": "10267604",
+    "active_cases": "256795",
+    "recovered_cases": "9860876",
     "death": "149933",
-    "total_cases": "256795"
+    "total_cases": "10267604"
   }
 ]
