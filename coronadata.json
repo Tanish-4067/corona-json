@@ -26,8 +26,8 @@
   {
     "serial_no": "4",
     "state": "Assam",
-    "active_cases": "2385",
-    "recovered_cases": "212853",
+    "active_cases": "3169",
+    "recovered_cases": "212069",
     "death": "1051",
     "total_cases": "216289"
   },
@@ -178,10 +178,10 @@
   {
     "serial_no": "23",
     "state": "Meghalaya",
-    "active_cases": "101",
-    "recovered_cases": "13227",
+    "active_cases": "136",
+    "recovered_cases": "13173",
     "death": "139",
-    "total_cases": "13467"
+    "total_cases": "13448"
   },
   {
     "serial_no": "24",
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "245753",
-    "recovered_cases": "9940348",
+    "active_cases": "246572",
+    "recovered_cases": "9939510",
     "death": "150772",
-    "total_cases": "10336873"
+    "total_cases": "10336854"
   }
 ]
