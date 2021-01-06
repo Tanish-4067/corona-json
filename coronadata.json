@@ -34,10 +34,10 @@
   {
     "serial_no": "5",
     "state": "Bihar",
-    "active_cases": "4178",
-    "recovered_cases": "249096",
-    "death": "1415",
-    "total_cases": "254689"
+    "active_cases": "4157",
+    "recovered_cases": "249520",
+    "death": "1420",
+    "total_cases": "255097"
   },
   {
     "serial_no": "6",
@@ -242,10 +242,10 @@
   {
     "serial_no": "31",
     "state": "Tamil Nadu",
-    "active_cases": "7808",
-    "recovered_cases": "802385",
-    "death": "12177",
-    "total_cases": "822370"
+    "active_cases": "7665",
+    "recovered_cases": "803328",
+    "death": "12188",
+    "total_cases": "823181"
   },
   {
     "serial_no": "32",
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "227430",
-    "recovered_cases": "10006328",
-    "death": "151401",
-    "total_cases": "10385159"
+    "active_cases": "227266",
+    "recovered_cases": "10007695",
+    "death": "151417",
+    "total_cases": "10386378"
   }
 ]
