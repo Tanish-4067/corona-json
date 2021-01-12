@@ -10,10 +10,10 @@
   {
     "serial_no": "2",
     "state": "Andhra Pradesh",
-    "active_cases": "2450",
-    "recovered_cases": "875456",
-    "death": "7131",
-    "total_cases": "885037"
+    "active_cases": "2411",
+    "recovered_cases": "875690",
+    "death": "7133",
+    "total_cases": "885234"
   },
   {
     "serial_no": "3",
@@ -34,10 +34,10 @@
   {
     "serial_no": "5",
     "state": "Bihar",
-    "active_cases": "3908",
-    "recovered_cases": "251644",
-    "death": "1439",
-    "total_cases": "256991"
+    "active_cases": "4034",
+    "recovered_cases": "251858",
+    "death": "1443",
+    "total_cases": "257335"
   },
   {
     "serial_no": "6",
@@ -130,10 +130,10 @@
   {
     "serial_no": "17",
     "state": "Kerala",
-    "active_cases": "63547",
-    "recovered_cases": "747389",
-    "death": "3323",
-    "total_cases": "814259"
+    "active_cases": "64759",
+    "recovered_cases": "751659",
+    "death": "3348",
+    "total_cases": "819766"
   },
   {
     "serial_no": "18",
@@ -162,10 +162,10 @@
   {
     "serial_no": "21",
     "state": "Maharashtra",
-    "active_cases": "52288",
-    "recovered_cases": "1867988",
-    "death": "51276",
-    "total_cases": "1971552"
+    "active_cases": "51892",
+    "recovered_cases": "1871270",
+    "death": "51326",
+    "total_cases": "1974488"
   },
   {
     "serial_no": "22",
@@ -242,10 +242,10 @@
   {
     "serial_no": "31",
     "state": "Tamil Nadu",
-    "active_cases": "6971",
-    "recovered_cases": "807744",
-    "death": "12228",
-    "total_cases": "826943"
+    "active_cases": "6807",
+    "recovered_cases": "808571",
+    "death": "12236",
+    "total_cases": "827614"
   },
   {
     "serial_no": "32",
@@ -282,17 +282,17 @@
   {
     "serial_no": "36",
     "state": "West Bengal",
-    "active_cases": "7538",
-    "recovered_cases": "543826",
-    "death": "9957",
-    "total_cases": "561321"
+    "active_cases": "7392",
+    "recovered_cases": "544705",
+    "death": "9975",
+    "total_cases": "562072"
   },
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "216522",
-    "recovered_cases": "10111023",
-    "death": "152558",
-    "total_cases": "10480103"
+    "active_cases": "217115",
+    "recovered_cases": "10120729",
+    "death": "152665",
+    "total_cases": "10490509"
   }
 ]
