@@ -10,10 +10,10 @@
   {
     "serial_no": "2",
     "state": "Andhra Pradesh",
-    "active_cases": "2411",
-    "recovered_cases": "875690",
-    "death": "7133",
-    "total_cases": "885234"
+    "active_cases": "2382",
+    "recovered_cases": "875921",
+    "death": "7134",
+    "total_cases": "885437"
   },
   {
     "serial_no": "3",
@@ -74,10 +74,10 @@
   {
     "serial_no": "10",
     "state": "Goa",
-    "active_cases": "797",
-    "recovered_cases": "50437",
-    "death": "749",
-    "total_cases": "51983"
+    "active_cases": "814",
+    "recovered_cases": "50515",
+    "death": "750",
+    "total_cases": "52079"
   },
   {
     "serial_no": "11",
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "214427",
-    "recovered_cases": "10128848",
-    "death": "152759",
-    "total_cases": "10496034"
+    "active_cases": "214415",
+    "recovered_cases": "10129157",
+    "death": "152761",
+    "total_cases": "10496333"
   }
 ]
