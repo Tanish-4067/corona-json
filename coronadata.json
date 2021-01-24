@@ -130,10 +130,10 @@
   {
     "serial_no": "17",
     "state": "Kerala",
-    "active_cases": "72278",
-    "recovered_cases": "808377",
-    "death": "3588",
-    "total_cases": "884243"
+    "active_cases": "73121",
+    "recovered_cases": "813550",
+    "death": "3608",
+    "total_cases": "890279"
   },
   {
     "serial_no": "18",
@@ -162,10 +162,10 @@
   {
     "serial_no": "21",
     "state": "Maharashtra",
-    "active_cases": "43870",
-    "recovered_cases": "1910521",
-    "death": "51963",
-    "total_cases": "2006354"
+    "active_cases": "44834",
+    "recovered_cases": "1912264",
+    "death": "52008",
+    "total_cases": "2009106"
   },
   {
     "serial_no": "22",
@@ -290,9 +290,9 @@
   {
     "serial_no": "",
     "state": "Total",
-    "active_cases": "184642",
-    "recovered_cases": "10316281",
-    "death": "154616",
-    "total_cases": "10655539"
+    "active_cases": "186449",
+    "recovered_cases": "10323197",
+    "death": "154681",
+    "total_cases": "10664327"
   }
 ]
